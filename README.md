@@ -1,5 +1,3 @@
 
-# minhtrietSGU.github.io
-
 
 
