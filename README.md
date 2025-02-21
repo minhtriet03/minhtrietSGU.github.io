@@ -1,5 +1,5 @@
 
 # minhtrietSGU.github.io
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://github.com/minhtriet03/minhtrietSGU.github.io](https://github.com/minhtriet03/minhtrietSGU.github.io) to view it in the browser.
 
